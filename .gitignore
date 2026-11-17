@@ -1,1 +1,14 @@
+# Credenciales de la base de datos (usa config/config_example.php como plantilla)
 config/config.php
+
+# Bases de datos: esquema, datos y cuentas no se publican
+data/
+*.sql
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/
